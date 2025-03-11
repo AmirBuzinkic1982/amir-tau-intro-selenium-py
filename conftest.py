@@ -8,6 +8,7 @@ import time
 import random
 from selenium.webdriver.chrome.options import Options
 
+
 @pytest.fixture(scope='session')
 def config():
 

@@ -817,6 +817,7 @@ def test_area_search(browser, phrase):
 # def test_map_search(browser):
 #     browser.get("https://www.immobiliare.it/en/")
 
+
 #     search_input = WebDriverWait(browser, 10).until(
 #         EC.presence_of_element_located((By.CSS_SELECTOR, "input.nd-autocomplete__input.in-placeInput"))
 #     )
